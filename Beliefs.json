@@ -36,12 +36,12 @@
     {
         "name": "God of Craftsman",
         "type": "Pantheon",
-        "uniques": ["[+3 Production, +5 Food, +1 Faith] [in cities following this religion]",]
+        "uniques": ["[+3 Production, +5 Food, +1 Faith] [in cities following this religion]"]
     },
     {
         "name": "God of the Open Sky",
         "type": "Pantheon",
-        "uniques": ["[+4 Culture, +1 Happiness] from every [Pasture]",]
+        "uniques": ["[+4 Culture, +1 Happiness] from every [Pasture]"]
                    
     },
     {
