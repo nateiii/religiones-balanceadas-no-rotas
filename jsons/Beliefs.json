@@ -133,7 +133,8 @@
     {
         "name": "Asceticism",
         "type": "Follower",
-        "uniques": ["[+1 Happiness, [15]% Culture] from every [Shrine] <in cities with at least [5] [Followers of this Religion]>",
+        "uniques": ["[+1 Happiness] from every [Shrine] <in cities with at least [5] [Followers of this Religion]>",
+                    "[[+15]% Culture] from every [Shrine] <in cities with at least [5] [Followers of this Religion]>",
                     "[+1 Happiness, +5 Gold] from every [Temple] <in cities with at least [5] [Followers of this Religion]>"]
     },
     {
@@ -159,7 +160,8 @@
     {
         "name": "Guruship",
         "type": "Follower",
-        "uniques": ["[[20]% Production, +3 Gold] [in cities following this religion] <in cities with at least [1] [Specialists]>"]
+        "uniques": ["[+3 Gold] [in cities following this religion] <in cities with at least [1] [Specialists]>",
+                    "[[+20]% [Production] [in cities following this religion] <in cities with at least [1] [Specialists]>"]
     },
     {
         "name": "Holy Warriors",
@@ -169,7 +171,8 @@
     {
         "name": "Liturgical Drama",
         "type": "Follower",
-        "uniques": ["[+5 Faith, [15]% Food] from every [Amphitheater] <in cities with at least [3] [Followers of this Religion]>"]
+        "uniques": ["[+5 Faith] from every [Amphitheater] <in cities with at least [3] [Followers of this Religion]>",
+                    "[[+15]% Food] from every [Amphitheater] <in cities with at least [3] [Followers of this Religion]>"]
     },
     {
         "name": "Monasteries",
@@ -200,6 +203,7 @@
         "name": "Religious Center",
         "type": "Follower",
         "uniques": ["[+2 Happiness, [20]% Faith] from every [Temple] <in cities with at least [5] [Followers of this Religion]>",
+                    "[[+20]% Faith] from every [Temple] <in cities with at least [5] [Followers of this Religion]>",
                     "[+2 Happiness, +3 Faith] from every [Shrine] <in cities with at least [5] [Followers of this Religion]>"]
     },
     {
