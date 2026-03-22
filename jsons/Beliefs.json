@@ -95,7 +95,7 @@
     {
         "name": "One with Nature",
         "type": "Pantheon",
-        "uniques": ["[+10 Faith, +7 Science] from every [Natural Wonder]"]
+        "uniques": ["[+15 Faith, +5 Science] from every [Natural Wonder]"]
     },
     {
         "name": "Oral Tradition",
@@ -117,7 +117,7 @@
     {
         "name": "Sacred Path",
         "type": "Pantheon",
-        "uniques": ["[+5 Culture, +2 Happiness] from every [Jungle]"]
+        "uniques": ["[+5 Culture, +1 Happiness, +1 Faith] from every [Jungle]"]
     },
     {
         "name": "Sacred Waters",
@@ -144,7 +144,7 @@
     {
         "name": "Choral Music",
         "type": "Follower",
-        "uniques": ["[+1 Happiness, +1 Culture, +3 Food] from every [Amphitheater] <in cities with at least [5] [Followers of this Religion]>"]
+        "uniques": ["[+1 Happiness, +1 Culture, +4 Food] from every [Amphitheater] <in cities with at least [3] [Followers of this Religion]>"]
     },
     {
         "name": "Divine inspiration",
@@ -169,7 +169,7 @@
     {
         "name": "Liturgical Drama",
         "type": "Follower",
-        "uniques": ["[+5 Faith, +10% Food] from every [Amphitheater] <in cities with at least [3] [Followers of this Religion]>"]
+        "uniques": ["[+5 Faith, +15% Food] from every [Amphitheater] <in cities with at least [3] [Followers of this Religion]>"]
     },
     {
         "name": "Monasteries",
@@ -189,12 +189,12 @@
     {
         "name": "Peace Gardens",
         "type": "Follower",
-        "uniques": ["[+3 Happiness, +5 Culture] from every [Garden]"]
+        "uniques": ["[+2 Happiness, +5 Culture] from every [Garden]"]
     },
     {
         "name": "Religious Art",
         "type": "Follower",
-        "uniques": ["[+5 Culture, +30 Faith, +20 Gold] from every [Hermitage]"]
+        "uniques": ["[+5 Culture, +30 Faith, +30 Gold] from every [Hermitage]"]
     },
     {
         "name": "Religious Center",
@@ -205,24 +205,24 @@
     {
         "name": "Religious Community",
         "type": "Follower",
-        "uniques": ["[+2]% [Production] from every follower, up to [30]%"]
+        "uniques": ["[+2]% [Production] from every follower, up to [36]%"]
     },
     {
         "name": "Swords into Ploughshares",
         "type": "Follower",
-        "uniques": ["[+3 Happiness, +7 Gold, +7 Faith] [in this city] <when not at war>"]
+        "uniques": ["[+3 Happiness, +15 Gold, +15 Faith] [in this city] <when not at war>"]
     },
 ///////////////////////////////////////// Founder beliefs //////////////////////////////////////////
 
     {
         "name": "Ceremonial Burial",
         "type": "Founder",
-        "uniques": ["[+3 Happiness] for each global city following this religion"]
+        "uniques": ["[+2 Happiness] for each global city following this religion"]
     },
     {
         "name": "Church Property",
         "type": "Founder",
-        "uniques": ["[+8 Gold] for each global city following this religion"]
+        "uniques": ["[+7 Gold] for each global city following this religion"]
     },
     {
         "name": "Initiation Rites",
@@ -244,7 +244,7 @@
     {
         "name": "Peace Loving",
         "type": "Founder",
-        "uniques": ["[+5 Science] from every [5] global followers [in non-enemy foreign cities]"]
+        "uniques": ["[+4 Science] from every [3] global followers [in non-enemy foreign cities]"]
     },
     {
         "name": "Pilgrimage",
@@ -254,7 +254,7 @@
     {
         "name": "Tithe",
         "type": "Founder",
-        "uniques": ["[+3 Gold] from every [1] global followers [in all cities]"]
+        "uniques": ["[+4 Gold] from every [3] global followers [in all cities]"]
     },
     {
         "name": "World Church",
@@ -309,6 +309,6 @@
     {
         "name": "Reliquary",
         "type": "Enhancer",
-        "uniques": ["Gain [100] [Faith] <upon expending a [Great Person] unit> <(modified by game speed)>"]
+        "uniques": ["Gain [200] [Faith] <upon expending a [Great Person] unit> <(modified by game speed)>"]
     }
 ]
