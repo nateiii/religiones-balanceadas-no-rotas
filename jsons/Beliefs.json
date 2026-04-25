@@ -140,10 +140,10 @@
     {
         "name": "Holy architecture",
         "type": "Follower",
-        "uniques": ["[May buy [Cathedral] buildings with [Faith] [in cities following this religion]",
-                   "[May buy [Monastery] buildings with [Faith] [in cities following this religion]",
-                   "[May buy [Mosque] buildings with [Faith] [in cities following this religion]",
-                   "[May buy [Pagoda] buildings with [Faith] [in cities following this religion]"]
+        "uniques": ["[May buy [Cathedral] buildings with [Faith] [in cities following this religion]]",
+                   "[May buy [Monastery] buildings with [Faith] [in cities following this religion]]",
+                   "[May buy [Mosque] buildings with [Faith] [in cities following this religion]]",
+                   "[May buy [Pagoda] buildings with [Faith] [in cities following this religion]]"]
     },
     {
         "name": "Choral Music",
