@@ -3,21 +3,21 @@
     {
         "name": "Ancestor Worship",
         "type": "Pantheon",
-        "uniques": ["[+5 Culture, +1 Gold] from every [Shrine]",
-                    "[+6 Culture, +3 Gold] from every [Temple]"]
+        "uniques": ["[+5 Culture, +5 Gold] from every [Shrine]",
+                    "[+5 Culture, +10 Gold] from every [Temple]"]
     },
     {
         "name": "Dance of the Aurora",
         "type": "Pantheon",
-        "uniques": ["[+1 Faith, +2 Food] from [Tundra] tiles without [Forest] [in this city]",
-                    "[+6 Gold] from [Snow] tiles [in this city]"]
+        "uniques": ["[+45]% Yield from every [Tundra]",
+                    "[+6 Gold] from every [Snow]"]
     },
     {
         "name": "Desert Folklore",
         "type": "Pantheon",
-        "uniques": ["[+1 Faith] from every [Desert]",
-                    "[+2 Production, +1 Culture] from every [Oasis]",
-                    "[+1 Gold] from every [Flood plains]"]
+        "uniques": ["[+25]% Yield from every [Desert]",
+                    "[+3 Culture] from every [Oasis]",
+                    "[+3 Gold] from every [Flood plains]"]
     },
     {
         "name": "Faith Healers",
@@ -56,24 +56,24 @@
     {
         "name": "God of War",
         "type": "Pantheon",
-        "uniques": ["Earn [70]% of [Military] unit's [Strength] as [Faith] when killed within 5 tiles of a city following this religion",
-                    "Earn [20]% of [Military] unit's [Strength] as [Science] when killed within 5 tiles of a city following this religion",
-                    "Earn [30]% of [Military] unit's [Strength] as [Gold] when killed within 5 tiles of a city following this religion"]
+        "uniques": ["Earn [70]% of [Military] unit's [Strength] as [Faith] when killed within 10 tiles of a city following this religion",
+                    "Earn [20]% of [Military] unit's [Strength] as [Science] when killed within 10 tiles of a city following this religion",
+                    "Earn [30]% of [Military] unit's [Strength] as [Gold] when killed within 10 tiles of a city following this religion"]
     },
     {
         "name": "Goddess of Festivals",
         "type": "Pantheon",
-        "uniques": ["[+2 Culture, +2 Faith, +2 Science] from every [Wine]", "[+2 Culture, +2 Faith, +2 Science] from every [Incense]"]
+        "uniques": ["[+4 Culture, +3 Faith, +2 Science] from every [Wine]", "[+4 Culture, +3 Faith, +2 Science] from every [Incense]"]
     },
     {
         "name": "Goddess of Love",
         "type": "Pantheon",
-        "uniques": ["[+10 Happiness] [in cities following this religion] <in cities with at least [10] [Population]>"]
+        "uniques": ["[+3 Happiness] [in cities following this religion] <in cities with at least [10] [Population]>"]
     },
     {
         "name": "Goddess of Protection",
         "type": "Pantheon",
-        "uniques": ["[+200]% Strength for cities <when attacking>"]
+        "uniques": ["[+150]% Strength for cities <when attacking>"]
     },
     {
         "name": "Goddess of the Hunt",
@@ -100,7 +100,7 @@
     {
         "name": "Oral Tradition",
         "type": "Pantheon",
-        "uniques": ["[+4 Culture, +1 Science] from every [Plantation]"]
+        "uniques": ["[+2 Culture, +2 Science, +1 Food] from every [Plantation]"]
     },
     {
         "name": "Religious Idols",
@@ -117,7 +117,7 @@
     {
         "name": "Sacred Path",
         "type": "Pantheon",
-        "uniques": ["[+5 Culture, +1 Happiness, +1 Faith] from every [Jungle]"]
+        "uniques": ["[+6 Culture, +2 Happiness, +3 Faith] from every [Jungle]"]
     },
     {
         "name": "Sacred Waters",
@@ -127,7 +127,7 @@
     {
         "name": "Stone Circles",
         "type": "Pantheon",
-        "uniques": ["[+5 Faith, +8 Culture] from every [Quarry]"]
+        "uniques": ["[+15 Faith] from every [Quarry]"]
     },
 ///////////////////////////////////////// Follower beliefs /////////////////////////////////////////
     {
@@ -138,9 +138,12 @@
                     "[+1 Happiness, +5 Gold] from every [Temple] <in cities with at least [5] [Followers of this Religion]>"]
     },
     {
-        "name": "Cathedrals",
+        "name": "Holy architecture",
         "type": "Follower",
-        "uniques": ["May buy [Cathedral] buildings with [Faith] [in cities following this religion]"]
+        "uniques": ["[May buy [Cathedral] buildings with [Faith] [in cities following this religion]>",
+                   "[May buy [Monastery] buildings with [Faith] [in cities following this religion]>",
+                   "[May buy [Mosque] buildings with [Faith] [in cities following this religion]>",
+                   "[May buy [Pagoda] buildings with [Faith] [in cities following this religion]>"]
     },
     {
         "name": "Choral Music",
@@ -150,7 +153,7 @@
     {
         "name": "Divine inspiration",
         "type": "Follower",
-        "uniques": ["[+10 Faith, +1 Happiness] from every [Wonder]"]
+        "uniques": ["[+7 Faith, +1 Happiness] from every [Wonder]"]
     },
     {
         "name": "Feed the World",
@@ -166,28 +169,13 @@
     {
         "name": "Holy Warriors",
         "type": "Follower",
-        "uniques": ["May buy [{Military} {Land}] units with [Faith] for [2] times their normal Production cost <in [in cities following this religion] cities>"]
+        "uniques": ["May buy [{Military} {Land}] units with [Faith] for [3] times their normal Production cost <in [in cities following this religion] cities>"]
     },
     {
         "name": "Liturgical Drama",
         "type": "Follower",
         "uniques": ["[+5 Faith] from every [Amphitheater] <in cities with at least [3] [Followers of this Religion]>",
                     "[+15]% [Food] from every [Amphitheater] <in cities with at least [3] [Followers of this Religion]>"]
-    },
-    {
-        "name": "Monasteries",
-        "type": "Follower",
-        "uniques": ["May buy [Monastery] buildings for [150] [Faith] [in cities following this religion]"]
-    },
-    {
-        "name": "Mosques",
-        "type": "Follower",
-        "uniques": ["May buy [Mosque] buildings with [Faith] [in cities following this religion]"]
-    },
-    {
-        "name": "Pagodas",
-        "type": "Follower",
-        "uniques": ["May buy [Pagoda] buildings with [Faith] [in cities following this religion]"]
     },
     {
         "name": "Peace Gardens",
