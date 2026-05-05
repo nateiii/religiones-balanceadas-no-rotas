@@ -68,7 +68,7 @@
     {
         "name": "Goddess of Love",
         "type": "Pantheon",
-        "uniques": ["[+3 Happiness] [in cities following this religion] <in cities with at least [10] [Population]>"]
+        "uniques": ["[+5 Happiness] [in cities following this religion] <in cities with at least [12] [Population]>"]
     },
     {
         "name": "Goddess of Protection",
@@ -83,7 +83,7 @@
     {
         "name": "Messenger of the Gods",
         "type": "Pantheon",
-        "uniques": ["[+7 Science] from each Trade Route"]
+        "uniques": ["[+13 Science] from each Trade Route"]
     },
     {
         "name": "Monument to the Gods",
@@ -219,12 +219,12 @@
     {
         "name": "Initiation Rites",
         "type": "Founder",
-        "uniques": ["[+300 Gold] when a city adopts this religion for the first time <(modified by game speed)>"]
+        "uniques": ["[+600 Gold] when a city adopts this religion for the first time <(modified by game speed)>"]
     },
     {
         "name": "Interfaith Dialogue",
         "type": "Founder",
-        "uniques": ["When spreading religion to a city, gain [30] times the amount of followers of other religions as [Science]"]
+        "uniques": ["When spreading religion to a city, gain [40] times the amount of followers of other religions as [Science]"]
     },
     {
         "name": "Papal Primacy",
@@ -301,6 +301,6 @@
     {
         "name": "Reliquary",
         "type": "Enhancer",
-        "uniques": ["Gain [200] [Faith] <upon expending a [Great Person] unit> <(modified by game speed)>"]
+        "uniques": ["Gain [300] [Faith] <upon expending a [Great Person] unit> <(modified by game speed)>"]
     }
 ]
